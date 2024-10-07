@@ -1,4 +1,4 @@
-select *
-from persons
-where age > 27
-order by age desc;
+SELECT *
+FROM PERSONS
+WHERE age > 27
+ORDER BY age DESC;

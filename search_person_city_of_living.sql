@@ -1,3 +1,3 @@
-select name, surname
-from persons
-where city_of_living ='Moscow';
+SELECT name, surname
+FROM PERSONS
+WHERE city_of_living = 'MOSCOW';
